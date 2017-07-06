@@ -1,0 +1,15 @@
+{
+	"Country": "United States",
+	"Cities": [
+	{
+	"CityName": "Chicago",
+	"Lon": "34.54",
+	"MLBTitles":["1992"]
+	},
+	{"CityName": "Detroit",
+	"Lon": "34.54",
+	"MLBTitles":["1992"]
+	}
+	]
+}
+
